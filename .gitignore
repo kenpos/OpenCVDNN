@@ -1,0 +1,7 @@
+# 一般的な gitignoreの記述例
+*.jpg　# 拡張子が log のファイルを除外
+*.avi
+*.AVI
+*.jpeg
+*.JPEG
+*.JPG
