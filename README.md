@@ -11,3 +11,5 @@ Even if you have a futon, it will respond as long as you can see some of your fa
 老人施設等で利用することを想定しています。
 天井からベットを監視して、ベットから降りたことを検知することができます。
 布団被っていても顔や手の一部が見えていればそれなりに反応します。
+
+製作から納品まで5日
